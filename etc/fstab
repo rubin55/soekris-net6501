@@ -1,0 +1,2 @@
+#/dev/iso9660/11_0_RELEASE_P1_AMD64_CD / cd9660 ro 0 0
+172.17.1.16:/home/tftp/freebsd       /         nfs      ro        0    0
