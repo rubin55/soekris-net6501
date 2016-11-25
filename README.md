@@ -1,6 +1,6 @@
 # Soekris NET6501 PXE bootstrapping FreeBSD 11 How-to
 
-After the untimely demise of my 11 year old Mac Mini PowerPC, I was in dire need of some new networking whatchamacallit. In a distant past, I'd heard about Soekris and so I figured I'd take a look on Wim Vandeputte's webshop [![KD85]](https://encrypted.kd85.com/soekris.html) and bought a 1ghz NET6501.
+After the untimely demise of my 11 year old Mac Mini PowerPC, I was in dire need of some new networking whatchamacallit. In a distant past, I'd heard about Soekris and so I figured I'd take a look on Wim Vandeputte's webshop [KD85](https://encrypted.kd85.com/soekris.html) and bought a 1ghz NET6501.
 
 It turned out that it was a bit more involved than I expected to get stuff on the Soekris. So much so, that I decided to document my adventures in this little how-to repository, complete with the neccessary files to set up stuff.
 
